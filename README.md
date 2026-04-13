@@ -39,7 +39,9 @@ Design an **E-Commerce Order Management System** that allows an administrator to
 
 ---
 
+
 # 🗄️ Database Schema
+
 
 The system consists of **7 main tables**.
 
@@ -118,6 +120,7 @@ The system consists of **7 main tables**.
 | shipping_status | Dispatched / In Transit / Delivered |
 
 ---
+
 
 # ⚙️ Features & SQL Functionalities
 
@@ -234,6 +237,7 @@ Examples include:
 | Regular | Otherwise |
 
 ---
+
 
 # 📂 Project Structure
 
